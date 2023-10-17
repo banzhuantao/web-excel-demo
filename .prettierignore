@@ -1,0 +1,14 @@
+dist
+.local
+.output.js
+.editorconfig
+node_modules
+**/.git
+**/.svn
+**/.hg
+**/*.svg
+**/*.sh
+public
+/src/assets
+index.html
+pnpm-lock.yaml
